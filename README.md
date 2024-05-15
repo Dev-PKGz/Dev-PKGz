@@ -1,7 +1,8 @@
 ### Oi, Meu Nome é Patrick, conhecido como PKGz ou PK.
 
 - 🔭 Atualmente estou trabalhando em Projetos Particulares.
-- 🌱  Estou aprendendo Java.
+- 📚 Formado em Analise e Desenvolvimento de Sistemas.
+- 🌱  Estou aprendendo Java/Python.
 - ⚡ Curiosidade: Sou muito curioso, gosto de aprender novas coisas e novas formas de programar, adoro jogos.
 
 <div align="center">
