@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando em Projetos Particulares.
 - 📚 Formado em Analise e Desenvolvimento de Sistemas.
-- 🌱  Estou aprendendo Java/Python.
+- 🌱  Estou aprendendo Java/PHP.
 - ⚡ Curiosidade: Sou muito curioso, gosto de aprender novas coisas e novas formas de programar, adoro jogos.
 
 <div align="center">
